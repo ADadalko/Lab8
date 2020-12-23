@@ -1,0 +1,41 @@
+body {
+  background-color: #313830;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+label{
+  display: block;
+  margin: 10px;
+}
+
+button{
+  border-radius: 5px;
+  margin-bottom: 20px;
+  display: block;
+  background-color: #a1a1a1;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  width: 300px;
+  height: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: large;
+}
+
+button:hover{
+  background-color: #4c524c;
+  color: white;
+}
+
+table{
+  text-align: center;
+  width: 100%;
+  border: 2px solid black;
+}
+
+td{
+  border: 2px solid black;
+  padding: 3px;
+  font-size: smaller;
+}
